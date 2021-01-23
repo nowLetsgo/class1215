@@ -4,3 +4,5 @@ readme.md
 *.doc
 # 忽略整个文件夹
 node_modules/
+
+index.html
